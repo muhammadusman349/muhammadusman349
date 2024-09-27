@@ -20,7 +20,7 @@ I'm Muhammad Usman, an experienced **Python Developer**, **Django Specialist**, 
 - 💻 Developing scalable Django and Python-based applications
 - 🛠️ Performing **Manual** and **Automated Testing** for web apps
 - 🔍 Ensuring software quality and optimizing test processes
-- 🌱 Currently exploring advanced **Python** topics like             performance optimization and API development.  Deepening knowledge in **Django** for REST APIs and database optimization. Advancing in **SQA** with a focus on test automation, CI/CD integration, and performance testing.
+- 🌱 Currently exploring advanced **Python** topics like performance optimization and API development. Deepening knowledge in **Django** for REST APIs and database optimization. Advancing in **SQA** with a focus on test automation, CI/CD integration, and performance testing.
  
 ---
 
@@ -116,7 +116,7 @@ I follow a systematic development and testing workflow:
 
 <p align="center">
     <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadusman349&theme=react-dark"
+        src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadusman349&theme=react-dark&width=800&height=400"
         alt="GitHub Activity Graph"
     />
 </p>
