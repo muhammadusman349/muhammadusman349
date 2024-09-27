@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=42f584&center=true&vCenter=true&width=600&height=50&lines=Django+Developer;Software+Quality+Assurance+Expert;Backend+Engineer;Automation+Specialist;Open+Source+Contributor;Passionate+Python+Developer" alt="Typing SVG">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=3cb371&background=333333&center=true&vCenter=true&width=600&height=50&lines=Django+Developer;Software+Quality+Assurance+Expert;Backend+Engineer;Manual+Specialist;Open+Source+Contributor;Passionate+Python+Developer" alt="Typing SVG">
     </a>
 </div>
 
@@ -116,7 +116,7 @@ I follow a systematic development and testing workflow:
 
 <p align="center">
     <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadusman349&theme=react-dark&width=800&height=400"
+        src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadusman349&theme=react-dark&width=300&height=400"
         alt="GitHub Activity Graph"
     />
 </p>
@@ -149,7 +149,7 @@ I follow a systematic development and testing workflow:
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42f584&width=435&lines=Thanks+for+visiting+my+profile!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3cb371&width=435&lines=Thanks+for+visiting+my+profile!" alt="Typing SVG">
 </p>
 
 <p align="center">
